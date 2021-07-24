@@ -23,4 +23,3 @@ While running the app, the commands that are supported are:
 - `touch <file name>`
 - `pwd`
 - `rm <file name or directory name>`
-- `cat <file name>`
